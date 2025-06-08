@@ -32,8 +32,8 @@
 		28F49E0C2DF458C000DBDA1A = {
 			isa = PBXGroup;
 			children = (
-				28F49E172DF458C000DBDA1A /* Pique */,
 				28F49E162DF458C000DBDA1A /* Products */,
+				28F49E172DF458C000DBDA1A /* Pique */,
 			);
 			sourceTree = "<group>";
 		};
